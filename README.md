@@ -2,7 +2,7 @@
 - 👀 I’m interested in software eng, cybersecurity, ui/ux.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on Web development and cybersecurity
-- 📫 How to reach me via @m1cpherson and @Macoj-dotcom.
+- 📫 How to reach me via twitter: @m1cpherson and @Macoj-dotcom.
 - 😄 Pronouns: No.
 - ⚡ Fun fact: Reading, listening to music.
 
